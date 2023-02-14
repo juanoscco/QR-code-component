@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+body {
+    min-height: 100vh;
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.card {
+    width: 18rem;
+    padding: 12.5px;
+    border-radius: 15px;
+}
+
+img {
+    
+    border-radius: 10px;
+}
+
+h5 {
+    font-weight: 700;
+    color:  hsl(218, 44%, 22%);
+}
+
+p {
+    font-size: 14px;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
+
